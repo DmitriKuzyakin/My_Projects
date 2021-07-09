@@ -52,8 +52,8 @@
 -	*Seaborn*
 -	*SciPy*
 -  *Scikit-learn*
-- *Plotly *
-- *Tableau *
+- *Plotly*
+- *Tableau*
 - *Cобытийная аналитика*
 - *Продуктовые метрики*
 - *Проверка статистических гипотез*
