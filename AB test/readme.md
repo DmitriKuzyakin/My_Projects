@@ -29,6 +29,7 @@
 ## Навыки и инструменты
 -	*Python*
 -	*Pandas*
+-	*Matplotlib*
 -	*Numpy*
 -	*Seaborn*
 -	*SciPy*
